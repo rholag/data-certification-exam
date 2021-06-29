@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "la median_age évolue positivement par rapport au nb_incident\n                       si median_age augmente alors nb_incident augmente\n",
+    "T_STAT": "t-statistic est de 1.542\n                        il est calculer grâce au coef et au std err\n",
+    "P_VALUE": "elle montre ou se situe le coef dans l'intervalle de confiance\n                    ici elle se trouve en dessous des 0.025\n",
+    "INCREASE": "pour une augmentation d'un point de pourcentage de PERC_MARRIED_COUPLE_FAMILY \n                              le NB_INCIDENTS diminue de 1023\n",
+    "LIMITATIONS": " Si nous avons trop de feature, nous risqu'ond'avoir des résultat faussé car il y a un risque\n                         overflow\n"
+}
